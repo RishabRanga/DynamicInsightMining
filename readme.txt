@@ -5,3 +5,4 @@ or 0.08333
 4.generate decision tree code using getcode
 5.Manually observe increase in Renewed outputs from the code.Accordingly observe features that results 
 in increase and print output.
+6.The traversal function dynamically gives insights at every node and tells alternatives to increase chances of renewal.
