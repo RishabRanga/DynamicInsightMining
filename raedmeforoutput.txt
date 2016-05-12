@@ -1,0 +1,5 @@
+output1 shows a considerable increase in the percentage of renewed when engagement of users>=0.5
+output2 now to optimise the renewed within engagement>=0.5 we see that a score_month>=7.02 leads to a steep increase in renewal of users
+on removing engagement as parameter:
+output3:the most important parameter to increase renewal on removing engaged is months_completed>=2.5 which increases the number of renewals
+ouput4:within months complteted>=2.5 a high ep_month results in steep increase in renewals 
