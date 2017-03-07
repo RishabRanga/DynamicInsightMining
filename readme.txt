@@ -6,3 +6,7 @@ or 0.08333
 5.Manually observe increase in Renewed outputs from the code.Accordingly observe features that results 
 in increase and print output.
 6.The traversal function dynamically gives insights at every node and tells alternatives to increase chances of renewal.
+
+
+
+goqiiinsightengineforretentonteam-2.ipynb-This is a file which gives insights by traversing a decision tree for each user based on his feature values
